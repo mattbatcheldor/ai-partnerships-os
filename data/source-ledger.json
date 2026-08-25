@@ -158,5 +158,45 @@
     "published_or_updated": "Current",
     "verified": 46258,
     "claim_boundary": "Supports Anthropic partnership, agentic automation and responsible-AI activity."
+  },
+  {
+    "id": "A09",
+    "account": "Anthropic / Redwood Research",
+    "source_title": "Introducing the Conceptual Reasoning Index",
+    "source_type": "Company-aligned research article",
+    "official_url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
+    "published_or_updated": "2026-08-12",
+    "verified": 46259,
+    "claim_boundary": "Supports current expert-rated benchmark design, inter-rater work and planned benchmark refresh; not a market-wide purchasing signal."
+  },
+  {
+    "id": "R08",
+    "account": "Google DeepMind",
+    "source_title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "source_type": "Company research/product article",
+    "official_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "published_or_updated": "2026-07-30",
+    "verified": 46259,
+    "claim_boundary": "Supports rapid cross-embodiment adaptation, remaining dexterity limitations and safety-evaluation context; not demand for an external provider."
+  },
+  {
+    "id": "E06",
+    "account": "European Commission",
+    "source_title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
+    "source_type": "Official institutional press release",
+    "official_url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+    "published_or_updated": "2026-07-31",
+    "verified": 46259,
+    "claim_boundary": "Supports enforcement and transparency changes from 2 August 2026; not a certification claim."
+  },
+  {
+    "id": "E07",
+    "account": "European Commission",
+    "source_title": "AI Act regulatory framework and application timeline",
+    "source_type": "Official institutional policy page",
+    "official_url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "published_or_updated": "Current",
+    "verified": 46259,
+    "claim_boundary": "Supports the current application timeline, including later high-risk dates; not legal advice."
   }
 ]
