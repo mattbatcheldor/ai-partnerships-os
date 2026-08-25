@@ -79,6 +79,8 @@ The forecast should also retain unweighted low and high scenarios. Mapped or mer
 | Monthly calibration | Forecast versus actual movement, conversion and demand; adjust weights only from evidence. |
 | Quarterly market review | Segment performance, EuroExec themes, lost reasons and research questions. |
 
+This cadence is designed for transfer: future operators inherit the stage definitions, opportunity record, review rhythm and decision rules rather than rebuilding the motion around individual knowledge; see the [team-run transfer model](#4-from-founder-led-motion-to-team-run-system).
+
 ### First 90 days
 
 | Window | Proposed outcome |
