@@ -8,7 +8,7 @@ This independent portfolio case study shows how public evidence, commercial judg
 
 > **Publication boundary:** This project is based on public information and was inspired by a public Partnerships & Growth role brief. It was not commissioned by, and is not affiliated with or endorsed by, Sovrano or any company named. Partnership propositions, scores, pilots and campaigns are the author's hypotheses and simulations.
 
-## Sovrano role requirements demonstrated
+## Commercial operating proof
 
 | Responsibility | Operating proof in this case |
 | --- | --- |
@@ -18,7 +18,7 @@ This independent portfolio case study shows how public evidence, commercial judg
 
 ```mermaid
 flowchart LR
-    A[Sovrano role brief] --> B[EuroExec → meetings and bounded pilots]
+    A[Partnerships operating brief] --> B[EuroExec → meetings and bounded pilots]
     A --> C[Pipeline → 90-day expert demand]
     A --> D[Commercial stack → instrumented execution]
 ```
