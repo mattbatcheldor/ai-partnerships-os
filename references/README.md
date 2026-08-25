@@ -4,6 +4,10 @@ Only official company or institutional sources are included. Each annotation rec
 
 | ID | Account | Official source | Claim boundary |
 | --- | --- | --- | --- |
+| S01 | Sovrano AI | [Head of Partnerships role](https://app.sovrano.ai/careers/ea3a8346-691c-44e4-b4a6-edd01eef8aae) | Supports the public role requirements; not evidence of current pipeline, conversion or stack decisions. |
+| S02 | Sovrano AI | [EuroExec overview](https://sovrano.ai/euroexec/) | Supports the benchmark purpose, expert-authored tasks and blind expert grading; not meeting conversion. |
+| S03 | Sovrano AI | [How to start a pilot](https://sovrano.ai/support/ai-companies/ai-companies-onboarding/) | Supports the public workflow inputs and scoping-to-pilot sequence; not a delivery commitment. |
+| S04 | Sovrano AI | [For AI companies](https://sovrano.ai/for-ai-companies/) | Supports the public evaluator proposition and workflow context; not undisclosed client demand. |
 | A02 | Google DeepMind | [Gemini Robotics ER 2](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/) | Supports robotics capability/evaluation context; not procurement intent. |
 | A04 | Mistral AI | [Mistral OCR 4](https://mistral.ai/news/ocr-4/) | Supports document-intelligence product momentum; evaluation need is inferred. |
 | A07 | ElevenLabs | [Voice agent evaluation framework: six pillars](https://elevenlabs.io/blog/voice-agent-evaluation-framework-6-pillars-explained) | Supports structured voice-agent evaluation requirements. |
