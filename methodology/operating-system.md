@@ -6,7 +6,7 @@
 
 The operating system is a repeatable commercial method for converting public evidence into prioritised partnership hypotheses, bounded propositions, testable campaigns and reviewed outputs. It is not a deployed software product, autonomous agent or claim of proprietary technology.
 
-## The six operating layers
+## The seven operating layers
 
 | Layer | Reusable method | Output |
 | --- | --- | --- |
