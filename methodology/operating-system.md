@@ -13,9 +13,10 @@ The operating system is a repeatable commercial method for converting public evi
 | 1. Evidence | Capture a precise public signal, official source, verification date and claim boundary. | Auditable source ledger. |
 | 2. Prioritisation | Score need, timing, strategic fit, expansion, access and delivery feasibility. | Ranked account radar with visible assumptions. |
 | 3. Proposition | Convert the signal into a labelled hypothesis and bounded first offer. | Buyer problem, partnership wedge, pilot and expansion logic. |
-| 4. Activation | Design simulated messages and experiments before real outreach. | Campaign architecture, metrics and decision rules. |
-| 5. Evaluation | Compare unconstrained and evidence-constrained AI outputs. | Prompts, model outputs, weighted rubric and adjudication notes. |
-| 6. Governance | Apply human review, privacy, affiliation, delivery and publication controls. | Public/private boundary, disclaimer and release checklist. |
+| 4. Activation | Convert public research or a benchmark signal into useful, evidence-bounded outreach and discovery. | Campaign architecture, EuroExec activation path, metrics and decision rules. |
+| 5. Forecasting | Translate buyer-confirmed stages into a 90-day commercial view and low/base/high expert-capacity signal. | Stage evidence, next actions, demand range and forecast confidence. |
+| 6. Evaluation | Compare unconstrained and evidence-constrained AI outputs. | Prompts, model outputs, weighted rubric and adjudication notes. |
+| 7. Governance | Apply human review, privacy, affiliation, delivery and publication controls. | Public/private boundary, disclaimer and release checklist. |
 
 ## Reusable versus case-specific
 
@@ -25,6 +26,7 @@ The operating system is a repeatable commercial method for converting public evi
 | Scoring criteria and tier logic | Named accounts and current market signals |
 | Bounded-pilot architecture | Buyer problems, propositions and entry offers |
 | Campaign experiment design | Message language and channel assumptions |
+| Stage evidence and forecast schema | Illustrative weights, actual pipeline and capacity assumptions |
 | AI evaluation rubric | Scenario sources, prompts and outputs |
 | Human-review and publication controls | Case-specific legal, delivery and privacy risks |
 

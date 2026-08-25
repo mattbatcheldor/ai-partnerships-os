@@ -21,6 +21,7 @@ The working lab contains:
 - Three segment-specific partnership propositions and bounded entry offers.
 - Nine fictional campaign experiments with explicit decision rules.
 - Six actual model outputs comparing a baseline prompt with an evidence-constrained prompt.
+- A proposed EuroExec activation, 90-day demand-forecasting and commercial-stack layer.
 
 Within the deliberately small three-scenario evaluation, the baseline prompt averaged **46**, while the evidence-constrained prompt averaged **94**. This demonstrates the value of workflow and guardrail design in this test; it is not a general claim about model performance.
 
@@ -109,6 +110,18 @@ For banks and insurers deploying GenAI or agents into sensitive workflows. The p
 
 See the fictional, unexecuted [campaign simulations](campaigns/README.md).
 
+## Activation and 90-day forecasting layer
+
+The operating system now extends from market prioritisation into a proposed commercial execution layer. It shows how EuroExec could create a useful first conversation, how buyer-confirmed opportunity stages could feed a 90-day workforce demand range, and how a lean commercial stack could be selected and governed.
+
+| Component | Proposed output | Boundary |
+| --- | --- | --- |
+| EuroExec activation | Benchmark signal → account hypothesis → useful outreach → discovery → bounded pilot. | No outreach, meetings or buyer validation claimed. |
+| 90-day forecast | Stage-weighted commercial view plus low/base/high expert-capacity demand. | Weights are illustrative author heuristics, not Sovrano conversion rates. |
+| Commercial stack | CRM, research/enrichment, outbound, meeting intelligence, reporting and AI controls. | Proposed shortlist, not Sovrano's disclosed or approved stack. |
+
+Read the complete [activation and 90-day forecasting module](methodology/activation-and-forecasting.md).
+
 ## AI evaluation lab
 
 Both prompt variants received the same single public source. Prompt A requested convincing partnership copy. Prompt B added evidence, inference, delivery and publication constraints.
@@ -156,6 +169,7 @@ The scores are provisional self-adjudication and require human review. Read the 
 ## Repository map
 
 - [Reusable operating system](methodology/operating-system.md)
+- [Activation and 90-day forecasting](methodology/activation-and-forecasting.md)
 - [Disclosure template for subsequent projects](methodology/disclosure-template.md)
 - [Methodology and scoring](methodology/scoring-model.md)
 - [Campaign simulations](campaigns/README.md)
