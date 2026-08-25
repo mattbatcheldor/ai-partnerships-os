@@ -8,6 +8,21 @@ This independent portfolio case study shows how public evidence, commercial judg
 
 > **Publication boundary:** This project is based on public information and was inspired by a public Partnerships & Growth role brief. It was not commissioned by, and is not affiliated with or endorsed by, Sovrano or any company named. Partnership propositions, scores, pilots and campaigns are the author's hypotheses and simulations.
 
+## Sovrano role requirements demonstrated
+
+| Responsibility | Operating proof in this case |
+| --- | --- |
+| **Turn EuroExec into meetings** | [Benchmark signal → account insight → useful outreach → discovery → bounded pilot](methodology/activation-and-forecasting.md#1-turning-euroexec-into-a-useful-first-conversation) |
+| **Produce a 90-day demand forecast** | [Stage-weighted pipeline connected to low/base/high expert-capacity requirements](methodology/activation-and-forecasting.md#2-stage-weighted-90-day-pipeline-and-demand-forecast) |
+| **Own the commercial stack** | [Proposed CRM, enrichment, outbound, meeting intelligence, reporting and AI controls](methodology/activation-and-forecasting.md#3-proposed-commercial-stack) |
+
+```mermaid
+flowchart LR
+    A[Sovrano role brief] --> B[EuroExec → meetings and bounded pilots]
+    A --> C[Pipeline → 90-day expert demand]
+    A --> D[Commercial stack → instrumented execution]
+```
+
 ![Market radar dashboard](assets/market-radar-dashboard.png)
 
 ## Executive summary
@@ -110,7 +125,7 @@ For banks and insurers deploying GenAI or agents into sensitive workflows. The p
 
 See the fictional, unexecuted [campaign simulations](campaigns/README.md).
 
-## Activation and 90-day forecasting layer
+## EuroExec Activation, 90-Day Demand Forecast & Commercial Stack
 
 The operating system now extends from market prioritisation into a proposed commercial execution layer. It shows how EuroExec could create a useful first conversation, how buyer-confirmed opportunity stages could feed a 90-day workforce demand range, and how a lean commercial stack could be selected and governed.
 
