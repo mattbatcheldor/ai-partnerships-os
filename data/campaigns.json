@@ -1,0 +1,50 @@
+[
+  {
+    "Campaign ID": "F01",
+    "Segment": "Frontier AI",
+    "Campaign proposition": "European Expert Evals for Multilingual AI",
+    "Priority account cluster": "Mistral AI; DeepL; ElevenLabs; Cohere; Aleph Alpha",
+    "Commercial trigger": "New multilingual, voice and document models are moving into enterprise workflows where generic benchmarks miss professional and cultural nuance.",
+    "Buyer committee": "Head of Evals; Research Partnerships; Enterprise Product; Safety/Trust; Applied AI",
+    "Buyer problem": "Internal teams can measure benchmark performance, but may lack verified domain experts, language coverage and independent adjudication for difficult real-world tasks.",
+    "Partnership wedge": "Verified European academics and professionals design hard tasks, adjudicate failures and document why a model fails—across relevant languages and regulated domains.",
+    "Illustrative two-week entry offer": "One domain × two languages: expert-authored task set, evaluation rubric, blinded model review, failure taxonomy and an evidence pack. Scope and volumes are illustrative, not a Sovrano commitment.",
+    "Evidence of success": "Agreed rubric coverage; inter-reviewer agreement; useful failure categories; decision-ready findings; documented provenance and delivery against the agreed schedule.",
+    "Expansion route": "More languages and domains; release regression suites; customer-specific benchmarks; safety/red-team programmes; recurring evaluation retainer.",
+    "Primary CTA": "Would a 20-minute scope test reveal a language/domain gap your current eval stack does not cover?",
+    "Publication boundary": "Public: proposition, method and 2–3 sample accounts. Private: full target list, people mapping and prioritisation notes.",
+    "Market / proposition sources": "https://sovrano.ai/for-ai-companies/ | https://www.deepl.com/en/blog/meet-new-deepl-translator"
+  },
+  {
+    "Campaign ID": "R01",
+    "Segment": "Robotics",
+    "Campaign proposition": "Expert Task Intelligence for Physical AI",
+    "Priority account cluster": "1X; Agile Robots; Apptronik; NEURA Robotics; Physical Intelligence",
+    "Commercial trigger": "Embodied-AI teams are scaling human video, robot demonstrations, simulation and on-policy data, but task quality and evaluation still depend on precise human expertise.",
+    "Buyer committee": "Head of Robot Learning; Data/World Models; Evaluation; Fleet Operations; Research Partnerships",
+    "Buyer problem": "Collecting more generic data can reproduce weak task definitions. Specialist workflows require experts who know the correct sequence, edge cases, safety boundaries and what successful performance looks like.",
+    "Partnership wedge": "European operators and domain professionals create task specifications, coached demonstrations and independent failure adjudication—with consent, provenance and a staged delivery model.",
+    "Illustrative two-week entry offer": "Desktop-first pilot: decompose one specialist workflow into task steps, edge cases, acceptance rubric and capture specification; progress to demonstrations only after hardware, rights and safety requirements are agreed.",
+    "Evidence of success": "Task coverage; expert acceptance of the rubric; actionable failure modes; capture feasibility; documented rights/provenance; clear go/no-go criteria for physical data collection.",
+    "Expansion route": "Additional task families and environments; demonstration cohorts; policy evaluation; deployment QA; ongoing expert review of on-policy data.",
+    "Primary CTA": "Before investing in another data batch, would it be useful to test whether the task and acceptance criteria are defined tightly enough?",
+    "Publication boundary": "Public: method and sample hypothesis. Private: operational requirements, access route and any people/contact research.",
+    "Market / proposition sources": "https://sovrano.ai/robotics/ | https://www.1x.tech/discover/1x-world-model-lab"
+  },
+  {
+    "Campaign ID": "E01",
+    "Segment": "Regulated enterprise",
+    "Campaign proposition": "Independent Assurance for Enterprise AI",
+    "Priority account cluster": "BBVA; BNP Paribas; Santander; Allianz; Zurich; AXA",
+    "Commercial trigger": "Banks and insurers are moving GenAI and agentic systems into customer, claims, underwriting, KYC and internal workflows while governance expectations intensify.",
+    "Buyer committee": "Group AI/Transformation; Model Risk; Compliance/Legal; Business Owner; Responsible AI; Procurement",
+    "Buyer problem": "The builder, primary vendor and internal owner may all be invested in the system. Leaders still need independent, domain-expert evidence about accuracy, escalation, bias, explanations and operational risk.",
+    "Partnership wedge": "A fixed-scope independent evaluation using professional experts, synthetic or authorised cases, traceable rubrics and a decision-ready evidence report.",
+    "Illustrative two-week entry offer": "One workflow × up to two languages: risk-based test design, synthetic-case evaluation, human adjudication, failure taxonomy and executive findings. It is evaluation evidence—not legal certification.",
+    "Evidence of success": "Coverage of priority risks; evidence quality; consistency of adjudication; actionable remediation; executive usability; documented limitations and provenance.",
+    "Expansion route": "More countries and workflows; release gates; vendor/model comparisons; recurring regression tests; independent governance and evaluation retainer.",
+    "Primary CTA": "Could one fixed-price independent evaluation strengthen the next release or governance decision without exposing production data?",
+    "Publication boundary": "Public: method, synthetic examples and selected public signals. Private: specific opportunity mapping, people and commercial assumptions.",
+    "Market / proposition sources": "https://sovrano.ai/for-enterprises/ | https://group.bnpparibas/en/press-release/bnp-paribas-and-mistral-ai-extend-their-partnership-to-support-the-next-phase-of-generative-ai-deployment-within-the-group"
+  }
+]

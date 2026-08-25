@@ -1,0 +1,113 @@
+{
+  "criteria": [
+    [
+      "Criterion",
+      "Weight",
+      "1 — Weak",
+      "3 — Adequate",
+      "5 — Strong",
+      "Evaluation question"
+    ],
+    [
+      "Groundedness",
+      0.25,
+      "Invents or distorts central facts",
+      "Mostly grounded with minor unsupported detail",
+      "Every material claim is supported or clearly conditional",
+      "Does the response stay inside the supplied evidence?"
+    ],
+    [
+      "Fact / inference separation",
+      0.2,
+      "Presents hypotheses as known facts",
+      "Some boundary language but still ambiguous",
+      "Consistently labels observation, inference and unknowns",
+      "Can a reader distinguish evidence from analysis?"
+    ],
+    [
+      "Commercial specificity",
+      0.2,
+      "Generic partnership language",
+      "Relevant problem and broad offer",
+      "Specific buyer problem, bounded pilot, deliverable and expansion logic",
+      "Is it useful to a senior partnerships leader?"
+    ],
+    [
+      "Sovrano wedge fit",
+      0.15,
+      "Little connection to expert evaluation/data",
+      "Partial connection to experts or evaluation",
+      "Clear expert, European, independent-evaluation or embodied-data wedge",
+      "Does the hypothesis fit Sovrano's public proposition?"
+    ],
+    [
+      "Guardrail compliance",
+      0.15,
+      "Affiliation, certification, privacy or results overclaim",
+      "Avoids major overclaim but misses a limitation",
+      "Respects affiliation, privacy, legal and delivery boundaries",
+      "Could this be shared responsibly after review?"
+    ],
+    [
+      "Clarity",
+      0.05,
+      "Confusing or inflated",
+      "Readable but wordy",
+      "Concise, direct and decision-oriented",
+      "Can a reader understand the thesis quickly?"
+    ],
+    [
+      "TOTAL",
+      1,
+      null,
+      null,
+      null,
+      "Weights must equal 100%."
+    ]
+  ],
+  "verdict_rules": [
+    [
+      "Verdict",
+      "Rule",
+      "Meaning"
+    ],
+    [
+      "PASS",
+      "Score ≥ 85 and no critical failure",
+      "Defensible enough for human editorial review and selective publication."
+    ],
+    [
+      "REVIEW",
+      "Score 70–84 and no critical failure",
+      "Potentially useful but requires material correction or stronger evidence boundaries."
+    ],
+    [
+      "FAIL",
+      "Score < 70",
+      "Does not meet the quality threshold."
+    ],
+    [
+      "FAIL",
+      "Any critical failure = Yes",
+      "Override: unsupported certification, active-need claim, privacy breach, affiliation claim or unbounded delivery promise."
+    ]
+  ],
+  "limitations": [
+    [
+      "Single-session test",
+      "The six outputs measure one prompt run in one ChatGPT Work session; they do not establish general model performance."
+    ],
+    [
+      "Self-adjudication",
+      "Initial scores were assigned in the same AI-assisted workflow. Matthew's human review is required before they become portfolio evidence."
+    ],
+    [
+      "Prompt confound",
+      "The constrained prompt is longer and more specific. The result demonstrates workflow design, not a pure scientific comparison of model intelligence."
+    ],
+    [
+      "No commercial outcome",
+      "The test evaluates research and messaging quality only. It contains no outreach, buyer response, pipeline or revenue result."
+    ]
+  ]
+}

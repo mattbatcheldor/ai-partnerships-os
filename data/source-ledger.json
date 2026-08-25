@@ -1,0 +1,122 @@
+[
+  {
+    "id": "A02",
+    "account": "Google DeepMind",
+    "source_title": "Gemini Robotics ER 2",
+    "source_type": "Company research/product article",
+    "official_url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "published_or_updated": "2026",
+    "verified": 46258,
+    "claim_boundary": "Supports robotics capability/evaluation context; not procurement intent."
+  },
+  {
+    "id": "A04",
+    "account": "Mistral AI",
+    "source_title": "Mistral OCR 4",
+    "source_type": "Company product article",
+    "official_url": "https://mistral.ai/news/ocr-4/",
+    "published_or_updated": "2026",
+    "verified": 46258,
+    "claim_boundary": "Supports document-intelligence product momentum; evaluation need is inferred."
+  },
+  {
+    "id": "A07",
+    "account": "ElevenLabs",
+    "source_title": "Voice agent evaluation framework: six pillars",
+    "source_type": "Company article",
+    "official_url": "https://elevenlabs.io/blog/voice-agent-evaluation-framework-6-pillars-explained",
+    "published_or_updated": "2026",
+    "verified": 46258,
+    "claim_boundary": "Supports structured voice-agent evaluation requirements."
+  },
+  {
+    "id": "A08",
+    "account": "DeepL",
+    "source_title": "Meet the new DeepL Translator",
+    "source_type": "Company product article",
+    "official_url": "https://www.deepl.com/en/blog/meet-new-deepl-translator",
+    "published_or_updated": "2026",
+    "verified": 46258,
+    "claim_boundary": "Supports 48,000 blind tests with language experts across 16 language pairs."
+  },
+  {
+    "id": "R01",
+    "account": "Physical Intelligence",
+    "source_title": "π0.7: a steerable model with emergent capabilities",
+    "source_type": "Company research article",
+    "official_url": "https://physicalintelligence.company/blog/pi07",
+    "published_or_updated": "2026-04-16",
+    "verified": 46258,
+    "claim_boundary": "Supports diverse robot, human-video and autonomous data mix."
+  },
+  {
+    "id": "R04",
+    "account": "1X Technologies",
+    "source_title": "1X World Model Lab",
+    "source_type": "Company research article",
+    "official_url": "https://www.1x.tech/discover/1x-world-model-lab",
+    "published_or_updated": "2026-06-04",
+    "verified": 46258,
+    "claim_boundary": "Explicitly supports multi-source data strategy and data-moat thesis."
+  },
+  {
+    "id": "R06",
+    "account": "NEURA Robotics",
+    "source_title": "NEURA and AWS accelerate Physical AI",
+    "source_type": "Company partnership article",
+    "official_url": "https://neura-robotics.com/neura-robotics-and-amazon-web-services-enter-collaboration/",
+    "published_or_updated": "2026",
+    "verified": 46258,
+    "claim_boundary": "Supports physical-AI training, sensor data and shared fleet intelligence."
+  },
+  {
+    "id": "R07",
+    "account": "Agile Robots",
+    "source_title": "Anchor customer for Europe's Industrial AI Cloud",
+    "source_type": "Company article",
+    "official_url": "https://www.agile-robots.com/en/news/detail/agile-robots-is-an-anchor-customer-for-europes-first-industrial-ai-cloud/",
+    "published_or_updated": "2025-11-04",
+    "verified": 46258,
+    "claim_boundary": "Supports European infrastructure and real production data for foundation-model training."
+  },
+  {
+    "id": "E01",
+    "account": "BBVA",
+    "source_title": "AI architecture with AWS",
+    "source_type": "Company article",
+    "official_url": "https://www.bbva.com/en/innovation/bbva-develops-a-new-technology-architecture-with-aws-to-accelerate-its-ai-solutions/",
+    "published_or_updated": "2026-06-05",
+    "verified": 46258,
+    "claim_boundary": "Supports scaled model validation/deployment and automated governance controls."
+  },
+  {
+    "id": "E03",
+    "account": "Santander",
+    "source_title": "AI projects published open source",
+    "source_type": "Company article",
+    "official_url": "https://www.santander.com/en/stories/santander-publishes-ai-projects-under-an-open-source-licence-to-ramp-up-shared-innovation",
+    "published_or_updated": "2026-06-25",
+    "verified": 46258,
+    "claim_boundary": "Supports trustworthy-AI intent and public project surface."
+  },
+  {
+    "id": "E04",
+    "account": "BNP Paribas",
+    "source_title": "BNP Paribas and Mistral AI extend partnership",
+    "source_type": "Company press release",
+    "official_url": "https://group.bnpparibas/en/press-release/bnp-paribas-and-mistral-ai-extend-their-partnership-to-support-the-next-phase-of-generative-ai-deployment-within-the-group",
+    "published_or_updated": "2026-05-26",
+    "verified": 46258,
+    "claim_boundary": "Supports GenAI deployment in KYC with expert validation."
+  },
+  {
+    "id": "E05",
+    "account": "Allianz",
+    "source_title": "Artificial Intelligence topic hub",
+    "source_type": "Company topic hub",
+    "official_url": "https://www.allianz.com/en/mediacenter/topics/artificial-intelligence.html",
+    "published_or_updated": "Current",
+    "verified": 46258,
+    "claim_boundary": "Supports Anthropic partnership, agentic automation and responsible-AI activity."
+  }
+]

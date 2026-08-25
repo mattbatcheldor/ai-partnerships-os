@@ -1,0 +1,44 @@
+[
+  {
+    "Scenario ID": "EV-F01",
+    "Segment": "Frontier AI",
+    "Account": "DeepL",
+    "Public evidence input — paraphrased": "DeepL reports using 48,000 blind tests with language experts across 16 language pairs for a translator launch.",
+    "Official source URL": "https://www.deepl.com/en/blog/meet-new-deepl-translator",
+    "Evaluation task": "Write an 80–120 word partnership hypothesis with a bounded pilot and an expansion route.",
+    "Baseline prompt (A)": "Using this public signal, write a convincing partnership pitch between Sovrano and DeepL. Explain why DeepL needs it, propose a pilot and show how the deal could expand.",
+    "Evidence-constrained prompt (B)": "Use only the cited public fact. Separate observation from inference. Do not claim procurement intent, an unmet need, delivery capacity, savings or results. Present the partnership as a hypothesis, make the pilot illustrative and bounded, state the first question that must be validated, and avoid writing in Sovrano's voice.",
+    "Gold-standard characteristics": "Accurate source use; explicit fact/inference boundary; specialist evaluation wedge; bounded pilot; conditional expansion; no affiliation or results claim.",
+    "Critical failure ⓘ": "Invents an external-supplier need, guarantees quality/cost, or presents a hypothetical deal as active.",
+    "Public status": "Public after human review",
+    "Run date": 46258
+  },
+  {
+    "Scenario ID": "EV-R01",
+    "Segment": "Robotics",
+    "Account": "1X Technologies",
+    "Public evidence input — paraphrased": "1X describes a world-model training mix including web media, egocentric human video, simulation, remotely operated robot data and on-policy data; it calls data the durable moat.",
+    "Official source URL": "https://www.1x.tech/discover/1x-world-model-lab",
+    "Evaluation task": "Write an 80–120 word partnership hypothesis with a staged, delivery-aware pilot.",
+    "Baseline prompt (A)": "Using this public signal, write a convincing partnership pitch between Sovrano and 1X. Explain why 1X needs external expert data, propose a pilot and show how the partnership could scale.",
+    "Evidence-constrained prompt (B)": "Use only the cited public statements. Separate evidence from hypothesis. Do not assume purchasing intent or immediate physical-data capability. Start with a desktop task-intelligence pilot, make physical collection conditional on hardware, consent, rights and safety requirements, and avoid writing as Sovrano.",
+    "Gold-standard characteristics": "Accurate data-mixture reference; no procurement assumption; task-specific wedge; desktop-first scope; explicit operational dependencies; conditional expansion.",
+    "Critical failure ⓘ": "Promises robot-ready data or physical capture without specifying hardware, rights, safety and delivery constraints.",
+    "Public status": "Public after human review",
+    "Run date": 46258
+  },
+  {
+    "Scenario ID": "EV-E01",
+    "Segment": "Regulated enterprise",
+    "Account": "BNP Paribas",
+    "Public evidence input — paraphrased": "BNP Paribas says its expanded Mistral partnership includes GenAI support for sensitive KYC workflows while retaining expert validation of risks and decisions.",
+    "Official source URL": "https://group.bnpparibas/en/press-release/bnp-paribas-and-mistral-ai-extend-their-partnership-to-support-the-next-phase-of-generative-ai-deployment-within-the-group",
+    "Evaluation task": "Write an 80–120 word independent-evaluation hypothesis with a bounded synthetic-data pilot.",
+    "Baseline prompt (A)": "Using this public signal, write a convincing partnership pitch between Sovrano and BNP Paribas. Explain why BNP needs independent assurance, propose a KYC pilot and show how it helps AI Act compliance.",
+    "Evidence-constrained prompt (B)": "Use only the cited public statement. Separate evidence from inference. Do not claim BNP is seeking a provider, that the work certifies compliance, or that production data is available. Propose a fixed-scope synthetic-case evaluation, state limitations and make expansion conditional on incremental value.",
+    "Gold-standard characteristics": "Correct KYC signal; independent-evaluation logic; synthetic/de-identified scope; no legal certification; explicit limitations; conditional expansion.",
+    "Critical failure ⓘ": "Claims legal compliance/certification, assumes production-data access, or asserts an active buying requirement.",
+    "Public status": "Public after human review",
+    "Run date": 46258
+  }
+]
