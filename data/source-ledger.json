@@ -1,5 +1,45 @@
 [
   {
+    "id": "S01",
+    "account": "Sovrano AI",
+    "source_title": "Head of Partnerships role",
+    "source_type": "Official company careers page",
+    "official_url": "https://app.sovrano.ai/careers/ea3a8346-691c-44e4-b4a6-edd01eef8aae",
+    "published_or_updated": "2026-08-25",
+    "verified": 46259,
+    "claim_boundary": "Supports the public role requirements; not evidence of current pipeline, conversion or stack decisions."
+  },
+  {
+    "id": "S02",
+    "account": "Sovrano AI",
+    "source_title": "EuroExec overview",
+    "source_type": "Official company research page",
+    "official_url": "https://sovrano.ai/euroexec/",
+    "published_or_updated": "Current",
+    "verified": 46259,
+    "claim_boundary": "Supports the benchmark purpose, expert-authored tasks and blind expert grading; not meeting conversion."
+  },
+  {
+    "id": "S03",
+    "account": "Sovrano AI",
+    "source_title": "How to start a pilot",
+    "source_type": "Official company help article",
+    "official_url": "https://sovrano.ai/support/ai-companies/ai-companies-onboarding/",
+    "published_or_updated": "2026-04-22",
+    "verified": 46259,
+    "claim_boundary": "Supports the public workflow inputs and scoping-to-pilot sequence; not a delivery commitment."
+  },
+  {
+    "id": "S04",
+    "account": "Sovrano AI",
+    "source_title": "For AI companies",
+    "source_type": "Official company product page",
+    "official_url": "https://sovrano.ai/for-ai-companies/",
+    "published_or_updated": "Current",
+    "verified": 46259,
+    "claim_boundary": "Supports the public evaluator proposition and workflow context; not undisclosed client demand."
+  },
+  {
     "id": "A02",
     "account": "Google DeepMind",
     "source_title": "Gemini Robotics ER 2",
