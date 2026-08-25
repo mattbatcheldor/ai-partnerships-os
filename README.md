@@ -37,6 +37,7 @@ The working lab contains:
 - Nine fictional campaign experiments with explicit decision rules.
 - Six actual model outputs comparing a baseline prompt with an evidence-constrained prompt.
 - A proposed EuroExec activation, 90-day demand-forecasting and commercial-stack layer.
+- A transfer model showing how the commercial motion can be documented, inherited and run by others.
 
 Within the deliberately small three-scenario evaluation, the baseline prompt averaged **46**, while the evidence-constrained prompt averaged **94**. This demonstrates the value of workflow and guardrail design in this test; it is not a general claim about model performance.
 
@@ -125,9 +126,21 @@ For banks and insurers deploying GenAI or agents into sensitive workflows. The p
 
 See the fictional, unexecuted [campaign simulations](campaigns/README.md).
 
+## Market view — Q3 2026
+
+This dated snapshot tests whether the operating system responds to current market movement rather than relying only on evergreen methodology.
+
+| Segment | Observed Q3 shift | Partnership implication — author inference |
+| --- | --- | --- |
+| Frontier AI | New expert-rated reasoning benchmarks are being maintained, recalibrated and retired as models improve. | Treat evaluation as a living product: refresh tasks, measure rater agreement and add domain-specific adjudication as generic benchmarks saturate. |
+| Robotics | New multi-embodiment models can adapt with small example sets, while dexterity and safety failures remain visible. | Prioritise high-information demonstrations, task boundaries, failure analysis and safety evaluation—not volume alone. |
+| Regulated enterprise | EU AI Act enforcement and transparency duties are active, while high-risk implementation dates have moved. | Qualify the buyer's role, system class, current obligation and evidence gap before proposing evaluation; do not sell generic “AI Act compliance”. |
+
+Read the source-linked [Q3 2026 market view](references/market-view-q3-2026.md), verified 25 August 2026.
+
 ## EuroExec Activation, 90-Day Demand Forecast & Commercial Stack
 
-The operating system now extends from market prioritisation into a proposed commercial execution layer. It shows how EuroExec could create a useful first conversation, how buyer-confirmed opportunity stages could feed a 90-day workforce demand range, and how a lean commercial stack could be selected and governed.
+The operating system now extends from market prioritisation into a proposed commercial execution layer. It shows how EuroExec could create a useful first conversation, how buyer-confirmed opportunity stages could feed a 90-day workforce demand range, how a lean commercial stack could be selected and governed, and how the motion could be transferred to future operators.
 
 | Component | Proposed output | Boundary |
 | --- | --- | --- |
@@ -189,6 +202,7 @@ The scores are provisional self-adjudication and require human review. Read the 
 - [Methodology and scoring](methodology/scoring-model.md)
 - [Campaign simulations](campaigns/README.md)
 - [Evaluation lab](evaluation/README.md)
+- [Q3 2026 market view](references/market-view-q3-2026.md)
 - [Curated source ledger](references/README.md)
 - [Machine-readable sample data](data/)
 - [Publication checklist](PUBLICATION_CHECKLIST.md)
