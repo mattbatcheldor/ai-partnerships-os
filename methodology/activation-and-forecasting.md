@@ -100,6 +100,19 @@ Tool choice should follow the workflow and data requirements, not precede them. 
 | Instrumentation | Native CRM reporting plus **Looker Studio** or an equivalent lightweight layer if cross-source analysis is needed. | Track response-to-meeting, meeting-to-qualified, stage age, forecast variance and capacity signals—not vanity activity alone. |
 | AI-assisted workflow | Evidence capture, account briefs, message variants, call preparation and quality checks. | No unapproved confidential data; sources retained; human review required; AI never changes stage or sends externally without approval. |
 
+## 4. From founder-led motion to team-run system
+
+The operating system should reduce dependence on one person's memory and judgement. This is a proposed transfer model, not a recommendation about Sovrano's current structure or a fixed headcount plan.
+
+| Phase | Head of Partnerships focus | What becomes reusable | Transfer test |
+| --- | --- | --- | --- |
+| Validate | Lead the first account hypotheses, outreach, discovery and pilot scopes; record why decisions were made. | Source rules, stage evidence, discovery fields, message tests and pilot boundaries. | A second operator can reproduce an account brief without relying on private explanation. |
+| Codify | Turn recurring judgement into templates, examples, review questions and explicit escalation rules. | Segment playbooks, qualification guide, CRM definitions, forecast method and win/loss taxonomy. | Two people reviewing the same opportunity reach a materially consistent stage and confidence view. |
+| Transfer | Give named account ownership to an operator while retaining call review, coaching and CEO escalation for material decisions. | Weekly pipeline and capacity cadence, call debriefs, stage audits and next-action discipline. | The operator can run the weekly review and surface exceptions without a shadow spreadsheet. |
+| Scale | Hire against a demonstrated bottleneck—account coverage, market research or revenue operations—rather than an aspirational org chart. | Role scorecard, onboarding path, quality checks and 30/60/90-day outcomes. | New capacity improves qualified pipeline or forecast quality without weakening evidence standards. |
+
+The first operators inherit the evidence ledger, account-brief template, outreach approval rules, discovery record, stage criteria, forecast fields, dashboard definitions and publication controls. The Head remains accountable for coaching, judgement quality, executive relationships and changes to the system.
+
 ## Decision rules
 
 - Do not count a public signal as pipeline.
